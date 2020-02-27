@@ -2,7 +2,7 @@
 
 Coursera Ontology Based recommendation system is a research project being undertaken by Abhinav Agarwal and Divyansh Mishra, 2 students of ICT Department at MIT Manipal, under the supervision of Dr. Sucheta Kolekar.
 
-This extension has been developed to facilitate willing students and other users of Coursera to share their data with the above authors for speedy progress of the research project. Please find below some of the FAQs that you may have. For any more questions, always feel free to drop a mail to the authors.
+This extension has been developed to facilitate willing students and other users of Coursera to share their data with the above authors for speedy progress of the research project. Please find below some of the FAQs that you may have. For any more questions, always feel free to drop a mail to the author at abhinav.agarwal1[at]learner.manipal.edu .
 
 ## Frequently Asked Questions
 ### What information will you collect?
@@ -26,12 +26,12 @@ System, and we don't have any commercial intentions, so the question of selling 
  Primarily, we are authorized by the college to collect this data. But more importantly, you are the owner of your data and we only need your permission to collect your data.
 
 ### When will the research project be over, and what are the expected results?
- While there is no specific deadline, we are aiming for a completion Date of April 2020. The final product will give never seen before usage based in course recommendations for the Coursera platform.
+ While there is no specific deadline, we are aiming for a completion Date of April 2020. The final product will give never seen before usage based in-course recommendations for the Coursera platform.
 
 
 
 Right now, this extension only collects user data. But, as the time progress, we will slowly start rolling out recommendations through this extension.
 
 
-If you have any other questions, please feel free to drop a mail to Abhinav at abhinav.agarwal1@learner.manipal.edu
+If you have any other questions, please feel free to drop a mail to Abhinav at abhinav.agarwal1[at]learner.manipal.edu
 
