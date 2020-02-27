@@ -1,25 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Coursera Ontology Based Recommendation System
 
-You can use the [editor on GitHub](https://github.com/anshabhi/chrome-extension-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Coursera Ontology Based recommendation system is a research project being undertaken by Abhinav Agarwal and Divyansh Mishra, 2 students of ICT Department at MIT Manipal, under the supervision of Dr. Sucheta Kolekar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This extension has been developed to facilitate willing students and other users of Coursera to share their data with the above authors for speedy progress of the research project. Please find below some of the FAQs that you may have. For any more questions, always feel free to drop a mail to the authors.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# Frequently Asked Questions
+### What information will you collect?
 
 **Bold** and _Italic_ and `Code` text
 
