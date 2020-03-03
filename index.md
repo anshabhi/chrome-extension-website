@@ -6,7 +6,7 @@ This extension has been developed to facilitate willing students and other users
 
 ## Frequently Asked Questions
 ### What information will you collect?
-This extension will collect some personal information, including Name, Email Address and Date of Birth. Other than that, various content usage data of Coursera such as the videos watched or quiz scores or participation in discussion form etc. will be recorded. 
+This extension will not collect any personally identifiable information. We only collect SHA 256 hashes of your name and user id (making you totally anonymous for us). Other than that, various content usage data of Coursera, such as the videos watched or quiz scores or participation in discussion form, etc. will be recorded.  Other than that, various content usage data of Coursera such as the videos watched or quiz scores or participation in discussion form etc. will be recorded. 
 
 ### What do I need to start sharing my data?
  Just install the extension and forget :). The extension will collect all the information unobtrusively, on its own. The extension primarily scrapes the Coursera website for your data. By installing this extension, you are allowing us to collect your data.
