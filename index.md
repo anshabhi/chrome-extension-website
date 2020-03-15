@@ -2,6 +2,8 @@
 
 Coursera Ontology Based recommendation system is a research project being undertaken by Abhinav Agarwal and Divyansh Mishra, 2 students of ICT Department at MIT Manipal, under the supervision of Dr. Sucheta Kolekar.
 
+The course completion rates on the Coursera platform are currently less than 10% of all the enrolled students. We are working to provide targeted and personalized recommendations to Coursera users, such as how difficult the upcoming quiz is going to be? Or how many revisits learners like you made to a particular video? Existing systems only partially provide such recommendations. We are working to build a new recommendation system, which would aid students in learning more from the online courses.
+
 This extension has been developed to facilitate willing students and other users of Coursera to share their data with the above authors for speedy progress of the research project. Please find below some of the FAQs that you may have. For any more questions, always feel free to drop a mail to the author at abhinav.agarwal1[at]learner.manipal.edu .
 
 ## Frequently Asked Questions
